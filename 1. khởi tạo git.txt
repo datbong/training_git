@@ -6,10 +6,7 @@
 	git remote add origin your_link_repository
 4. push
 	git push -u origin yourBranch
-<<<<<<< HEAD
-datbong
+9.datvong
 
-=======
-5. hihi tao conflig
->>>>>>> 5ea3f200bacef6aa896dc6805bfa01f7f95ff7ef
+
 	
