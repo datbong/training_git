@@ -6,7 +6,6 @@
 	git remote add origin your_link_repository
 4. push
 	git push -u origin yourBranch
-9.datvong
-
+hihi, da sua conflig ne
 
 	
